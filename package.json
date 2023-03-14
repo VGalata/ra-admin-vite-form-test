@@ -9,15 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^14.0.0",
-    "jsdom": "^21.1.0",
-    "ra-data-json-server": "^4.8.2",
-    "react": "^18.2.0",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "14.0.0",
+    "jsdom": "21.1.0",
+    "ra-data-json-server": "4.8.2",
+    "react": "18.2.0",
     "react-admin": "4.7.6",
-    "react-dom": "^18.2.0",
-    "react-hook-form": "^7.43.5",
-    "vitest": "^0.29.2"
+    "react-dom": "18.2.0",
+    "vitest": "0.29.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
